@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 11 11">
+<!-- by Yeamy -->
+
+<path d= "
+M0,5 h11 v1 h-11 v-1"/>
+
+<path d="
+M0,3.5 v-2 Q0 0, 1.5 0 h3 v1 h-3 Q1 1,1 1.5 v2z
+"/>
+
+<path d="
+M6.5,0 h3 Q11 0, 11 1.5 v2 h-1 v-2 Q10 1,9.5 1 h-3z
+"/>
+
+<path d="
+M0,7.5 h1 v2 Q1 10, 1.5 10 h3 v1 h-3 Q0 11,0 9.5 v-2z
+"/>
+
+<path d="
+M11,7.5 v2 Q11 11, 9.5 11 h-3 v-1 h3 Q10 10,10 9.5 v-2z
+"/>
+
+</svg>

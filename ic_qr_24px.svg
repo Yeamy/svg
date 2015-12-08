@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 11 11">
+<!-- by Yeamy -->
+
+<path d="
+M0,5 h5 v-5 h-5 v5z 
+M1,1 h3 v3 h-3 v-3z
+M1.9,1.9 h1.2 v1.2 h-1.2 v-1.2z
+"/>
+
+<path d="
+M6,5 h5 v-5 h-5 v5z
+M7,1 h3 v3 h-3 v-3z
+M7.9,1.9 h1.2 v1.2 h-1.2 v-1.2z
+"/>
+
+<path d="
+M0,11 h5 v-5 h-5 v5z 
+M1,7 h3 v3 h-3 v-3z
+M1.9,7.9 h1.2 v1.2 h-1.2 v-1.2z
+"/>
+
+<path d="
+M6,6 v5 h1 v-2 h2 v-3 h-3z
+M7,7 h1 v1 h-1 v-1z
+
+M10,6 h1 v2 h-1 v-2z
+M8,10 h1 v1 h-1 v-1z
+M9,9 h2 v2 h-1 v-1 h-1 v-1z
+"/>
+
+</svg>
